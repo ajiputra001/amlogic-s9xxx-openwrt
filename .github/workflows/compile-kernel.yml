@@ -81,11 +81,11 @@ on:
       kernel_sign:
         description: "Set the kernel custom signature"
         required: false
-        default: "-ophub"
+        default: "ajiputra-wrt"
         type: choice
         options:
-          - -ophub
-          - -yourname
+          - ajiputra-wrt
+          - ajiputra-wrt
 
 env:
   TZ: America/New_York
