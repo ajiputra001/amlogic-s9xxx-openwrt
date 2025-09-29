@@ -229,14 +229,14 @@ on:
           - dev
           - beta
       builder_name:
-        description: "Set OpenWrt builder signature."
+        description: "ajiputra."
         required: false
         default: "ophub"
         type: choice
         options:
           - ophub
           - angel
-          - yourname
+          - ajiputra-wrt
 
 env:
   TZ: America/New_York
