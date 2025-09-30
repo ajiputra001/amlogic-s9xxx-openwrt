@@ -229,7 +229,7 @@ on:
           - dev
           - beta
       builder_name:
-        description: "ajiputra."
+        description: " ajiputra-wrt ."
         required: false
         default: "ophub"
         type: choice
