@@ -97,7 +97,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -Ajiputra-wrt
 
 env:
   TZ: Etc/UTC
